@@ -1,1 +1,1 @@
-![Screenshot](assets/images/game2.png)
+![Screenshot](Space Shooter/assets/images/game2.png)
